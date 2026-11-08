@@ -1,0 +1,4 @@
+echo "venv/" >> .gitignore
+echo "telemetria.db" >> .gitignore
+echo "mosquitto/data/" >> .gitignore
+echo "mosquitto/log/" >> .gitignore
